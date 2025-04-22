@@ -51,20 +51,6 @@ Salt_rounds = 5
 - **ExpressJs**
 - **MongoDB**
 
-## Deployment
-- **Client**  - Netlify
-- **Server**  - Render
-
-## 🔗 Links
-
-- Live - https://lms-threatgaurdians.netlify.app/home
-- Server - https://lmsbackend-020w.onrender.com/
-
-## 🔗 Credentials
-
-- Email - test@gmail.com
-- Password - test
-
 
 ## Features Completed
 
@@ -85,23 +71,5 @@ Salt_rounds = 5
 - Setting reminders and notifications
 - Payment systems
 
-## Screenshots
-1. Login
 
-![Screenshot 2023-08-06 140655](https://github.com/piyush-agrawal6/LMS-ThreatGaurdians/assets/100460788/12c9063c-66ab-433a-991a-6faea663b002)
 
-2. Dashboard
-
-![2](https://github.com/piyush-agrawal6/LMS-ThreatGaurdians/assets/100460788/2c62a6ef-9fa5-4001-a616-235390cf717d)
-
-3. Quiz page
-
-![4](https://github.com/piyush-agrawal6/LMS-ThreatGaurdians/assets/100460788/d0fc18a9-8d29-49e7-b2b3-d391aa0814f3)
-
-4. Leaderboard
-
-![5](https://github.com/piyush-agrawal6/LMS-ThreatGaurdians/assets/100460788/3b7c9d2b-2401-4229-992e-78d7d4e12a06)
-
-##  Contributor
-
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
